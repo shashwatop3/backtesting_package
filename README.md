@@ -79,15 +79,6 @@ print(results)
 
 ---
 
-## Example Notebook
-
-An example Jupyter Notebook is included in the `Test` folder (`main.ipynb`). It demonstrates how to:
-1. Load data.
-2. Use a machine learning model to generate signals.
-3. Run a backtest with the generated signals.
-
----
-
 ## API Reference
 
 ### `Backtest` Class
